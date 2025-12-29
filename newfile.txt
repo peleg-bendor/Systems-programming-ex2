@@ -1,0 +1,3 @@
+Hello, this is a test file!
+It has multiple lines.
+Let's see if copying works!
